@@ -1,0 +1,23 @@
+{
+  "name": "learnjs",
+  "version": "1.0.0",
+  "description": "JS concept to learn",
+  "keywords": [
+    "javascript"
+  ],
+  "homepage": "https://github.com/vivekgupta0292/learnJS#readme",
+  "bugs": {
+    "url": "https://github.com/vivekgupta0292/learnJS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekgupta0292/learnJS.git"
+  },
+  "license": "ISC",
+  "author": "vivekgupta0292",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  }
+}
